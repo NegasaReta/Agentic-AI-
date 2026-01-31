@@ -1,0 +1,8 @@
+Artificial intelligence (AI) is intelligence associated with computational devices. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.
+
+Sub-fields of AI include:
+- Machine Learning: The study of computer algorithms that improve automatically through experience.
+- Deep Learning: A subset of machine learning based on artificial neural networks with representation learning.
+- Natural Language Processing (NLP): Giving computers the ability to understand text and spoken words in much the same way human beings can.
+
+AI applications are transforming industries such as healthcare, finance, transportation, and entertainment.
