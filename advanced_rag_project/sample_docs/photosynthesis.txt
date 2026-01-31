@@ -1,0 +1,5 @@
+Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy that, through cellular respiration, can later be released to fuel the organism's activities. Some of this chemical energy is stored in carbohydrate molecules, such as sugars and starches, which are synthesized from carbon dioxide and water – hence the name photosynthesis.
+
+The process generally occurs in two stages:
+1. The light-dependent reactions: These take place on the thylakoid membrane and need a continuous supply of light energy. Chlorophyll absorbs this light energy, which is converted into chemical energy in the form of ATP and NADPH.
+2. The Calvin cycle (light-independent reactions): This takes place in the stroma and does not directly require light. It uses the ATP and NADPH produced in the light-dependent reactions to fix carbon dioxide and produce three-carbon sugars.
